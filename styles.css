@@ -1,0 +1,28 @@
+body{
+    background-image: url("https://cdn.countryflags.com/thumbs/ghana/flag-square-250.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+}
+.col-md-4 p{
+    font-family: 'Enriqueta', serif;
+
+}
+h2{
+    font-family: 'Anton', sans-serif;
+    color: coral;
+}
+span{
+    color: coral;
+}
+h1:hover{
+    color: yellow;
+}
+button:hover {
+  color: blue;
+
+}
