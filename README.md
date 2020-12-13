@@ -2,19 +2,19 @@
 A web application that takes a user's birthday and calculates the day of the week they were born and then 
 depending on their gender outputs their Akan Name. 
 
-  #Project name. 
+  #  Project name. 
   Akan Naming System.
   
-  #Project description.
+  # Project description.
   A web application that takes a user's birthday and calculates the day of the week they were born
   and then depending on their gender outputs their Akan Name.
   
-  #Author(s) information.
+  # Author(s) information.
   Charles Ndugire
   
-  #Setup instructions - includes any scripts that need to be run if necessary.
+  # Setup instructions - includes any scripts that need to be run if necessary.
   
-  #BDD.
+  # BDD.
   BirthDay of the week (d) = ( ( (CC/4) -2*CC-1) + ((5*YY/4) ) + ((26*(MM+1)/10)) + DD ) mod 7
 
  where;
@@ -35,8 +35,8 @@ depending on their gender outputs their Akan Name.
   HTML
   JAVASCRIPT
   
-  #Contact information.
+  # Contact information.
   ndugirecharles@gmail.com
   
-  #License and Copyright information.
+  # License and Copyright information.
   MIT Licence.
