@@ -32,6 +32,7 @@ function validate() {
 
 }
 
+
 function calculateDayValue(){
   year = document.getElementById("year").value;
   CC = parseInt(year.substring(0,2));
