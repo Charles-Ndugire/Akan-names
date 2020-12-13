@@ -43,4 +43,4 @@ depending on their gender outputs their Akan Name.
   ndugirecharles@gmail.com
   
   # License and Copyright information.
-  MIT Licence.
+  Licenced under the MIT Licence.
