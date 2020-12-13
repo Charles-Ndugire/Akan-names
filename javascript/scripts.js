@@ -98,6 +98,7 @@ function getGender(){
         alert("You were born on " +dayNames[5] + " and Your akan name is " + femaleNames[5]+"!");
       }else if(dayValue == -0){
         alert("You were born on " +dayNames[6] + " and Your akan name is " +femaleNames[6]+"!");
+        
       }
     break
     default:
