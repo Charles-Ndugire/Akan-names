@@ -12,10 +12,11 @@ depending on their gender outputs their Akan Name.
   # Author(s) information.
   Charles Ndugire
   
-  # Setup instructions - includes any scripts that need to be run if necessary.
+  # Live link
+   https://charles-ndugire.github.io/akan-names/
   
   # BDD.
-  BirthDay of the week (d) = ( ( (CC/4) -2*CC-1) + ((5*YY/4) ) + ((26*(MM+1)/10)) + DD ) mod 7
+  Formulae to get the BirthDay of the week (d) = ( ( (CC/4) -2*CC-1) + ((5*YY/4) ) + ((26*(MM+1)/10)) + DD ) mod 7
 
  where;
 
@@ -29,10 +30,13 @@ depending on their gender outputs their Akan Name.
 
  mod - is the modulus function ( % )
   
-  #Technologies used.
+  # Technologies used.
   CSS
+  
   BOOTSTRAP
+  
   HTML
+  
   JAVASCRIPT
   
   # Contact information.
